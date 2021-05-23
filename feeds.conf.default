@@ -9,3 +9,4 @@ src-link custom /usr/src/openwrt/custom-feed
 src-git helloworld https://github.com/fw876/helloworld
 # luci-theme-infinityfreedom
 src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
+src-git kenzo https://github.com/kenzok8/openwrt-packages
